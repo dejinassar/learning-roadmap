@@ -5,3 +5,4 @@ env/
 # Ignore Python environment files
 *.env
 .env
+__pycache__
