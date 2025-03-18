@@ -1,2 +1,7 @@
-.venv
- .env
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore Python environment files
+*.env
+.env
